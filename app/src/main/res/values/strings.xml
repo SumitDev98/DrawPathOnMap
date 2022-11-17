@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Draw Path</string>
+    <string name="google_maps_key" >XYZ</string>
+</resources>
